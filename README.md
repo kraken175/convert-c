@@ -1,8 +1,11 @@
 # convert-c
-The tool Converts files into the C Array.
+The tool that Converts files into the C Array.
 
 # Usage:
    
-   convert-c.exe infile
+    convert-c.exe infile
   
-  
+# Requirements
+
+1. MinGW Compiler
+2. GNU Make
