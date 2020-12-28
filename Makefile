@@ -1,2 +1,2 @@
 all:    
-	gcc -o out/convert-c.exe convert-c.c -static
+	gcc -o convert-c.exe convert-c.c -static
