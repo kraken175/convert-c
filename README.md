@@ -1,2 +1,8 @@
 # convert-c
-Convert-C - Convert files into C Array
+The tool Converts files into the C Array.
+
+# Usage:
+   
+   convert-c.exe infile
+  
+  
